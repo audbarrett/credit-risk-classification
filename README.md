@@ -26,5 +26,13 @@
 
 ## Instructions:
 1. Clone repo to local device.
+  * copy HTTPS link from repo
+  * in terminal, use following command:
+`git clone` + [paste HTTPS]
+
 ![Alt text](/screenshot_1.png?raw=true)
-` git clone ` 
+
+2. Open python file in Jupyter Notebook
+  * Natigate to file in terminal
+  * Use following command:
+`Jupyter Notebook`
