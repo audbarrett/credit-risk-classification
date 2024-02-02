@@ -27,12 +27,23 @@
 ## Instructions:
 1. Clone repo to local device.
   * copy HTTPS link from repo
-  * in terminal, use following command:
-`git clone` + [paste HTTPS]
+  * in terminal, use following command: `git clone` + [paste HTTPS]
 
 ![Alt text](/screenshot_1.png?raw=true)
 
 2. Open python file in Jupyter Notebook
   * Natigate to file in terminal
-  * Use following command:
-`Jupyter Notebook`
+  * Use following command: `jupyter notebook`
+
+![Alt text](/screenshot_2.png?raw=true)
+
+3. Run all cells in Jupyter Notebook
+
+![Alt text](/screenshot_3.png?raw=true)
+
+## Credits
+Code completed with help from AskBCS Learning Assistant. Following code was shared:
+` !pip uninstall scikit-learn --yes
+  !pip uninstall imblearn --yes
+  !pip install scikit-learn==1.2.2
+  !pip install imblearn `
